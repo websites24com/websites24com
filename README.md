@@ -15,6 +15,13 @@ I'm a passionate web developer with hands-on experience in building modern, resp
 - 🌐 **WordPress Developer** (incl. maintenance & updates)
 - 🎯 **Frontend Developer (SCSS, JavaScript, HTML)**
 
+- ## 🌍 Languages
+
+- 🇵🇱 Polish (fluent)
+- 🇬🇧 English (fluent)
+- 🇪🇸 Spanish (fluent)
+- 🇩🇪 German (B1)
+
 ## 📫 Let's connect!
 
 - 📧 Email: office@websites-24.com
@@ -22,5 +29,5 @@ I'm a passionate web developer with hands-on experience in building modern, resp
 
 ---
 
-Feel free to check out my projects below and reach out if you think we can work together!
+Feel free to check out my projects below and reach out if you think we can work together! Coming soon...
 
