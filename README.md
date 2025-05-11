@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**websites24com/websites24com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Peter
 
-Here are some ideas to get you started:
+I'm a passionate web developer with hands-on experience in building modern, responsive, and SEO-friendly websites. I specialize in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ **Next.js** – for fast, full-stack React applications
+- ⚛️ **React** – building reusable components and interactive UIs
+- 💻 **WordPress** – custom themes, plugin development, maintenance, and website updates
+- 🎨 **Frontend (HTML, SCSS, JavaScript)** – clean, maintainable code with modern UI/UX principles
+
+## 🚀 I'm currently looking for a full-time or freelance opportunity as:
+
+- 🧑‍💻 **Next.js Developer**
+- 🌐 **WordPress Developer** (incl. maintenance & updates)
+- 🎯 **Frontend Developer (SCSS, JavaScript, HTML)**
+
+## 📫 Let's connect!
+
+- 📧 Email: office@websites-24.com
+- 🌐 Website: [www.websites-24.com](https://www.websites-24.com)
+
+---
+
+Feel free to check out my projects below and reach out if you think we can work together!
+
